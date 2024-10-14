@@ -1,0 +1,55 @@
+1. Abrasion: A cut or scrape that typically isn’t serious.
+2. Abscess: A tender, fluid-filled pocket that forms in tissue, usually due to infection.
+3. Acute: Signifies a condition that begins abruptly and is sometimes severe, but the duration is short.
+4. Benign: Not cancerous.
+5. Biopsy: A small sample of tissue that’s taken for testing.
+6. Chronic: Signifies a recurring, persistent condition like heart disease.
+7. Contusion: A bruise.
+8. Defibrillator: A medical device that uses electric shocks to restore normal heartbeat.
+9. Edema: Swelling caused by fluid accumulation.
+10. Embolism: An arterial blockage, often caused by a blood clot.
+11. Epidermis: The outer layer of the skin.
+12. Fracture: Broken bone or cartilage.
+13. Gland: An organ or tissue that produces and secretes fluids that serve a specific function.
+14. Hypertension: High blood pressure.
+15. Inpatient: A patient who requires hospitalization.
+16. Intravenous: Indicates medication or fluid that’s delivered by vein.
+17. Malignant: Indicates the presence of cancerous cells.
+18. Outpatient: A patient who receives care without being admitted to a hospital.
+19. Prognosis: The predicated outcome of disease progression and treatment.
+20. Relapse: Return of disease or symptoms after a patient has recovered.
+21. Sutures: Stitches, which are used to join tissues together as they heal.
+22. Transplant: The removal of an organ or tissue from one body that is implanted into another.
+23. Vaccine: A substance that stimulates antibody production to provide immunity against disease.
+24. Zoonotic disease: A disease that is transmissible from animals to humans.
+25. A-, an-: Lack of or without.
+26. -ation: Indicates a process.
+27. Dys-: Abnormal, difficult, or painful.
+28. -ectomy: Surgical removal of something.
+29. -ismus: Indicates a spasm or contraction.
+30. -itis: Signifies inflammation.
+31. -lysis: Decomposition, destruction, or breaking down.
+32. Macro-: Large in size.
+33. Melan/o-: Black or dark in color.
+34. Micro-: Small in size.
+35. -ology: The study of a particular concentration.
+36. -osis: Indicates something that is abnormal.
+37. -otomy: To cut into.
+38. -pathy: Disease or disease process.
+39. -plasty: Surgical repair.
+40. Poly-: Many.
+41. Pseudo-: False or deceptive, usually in regard to appearance.
+42. Retro-: Behind or backward.
+43. Cardi/o: Related to the heart.
+44. Derm/a/o, dermat/o: Pertaining to the skin.
+45. Encephal/o: Related to the brain.
+46. Gastr/o: Related to the stomach.
+47. Hemat/o: Pertaining to blood.
+48. My/o: Related to muscle.
+49. Oste/o: Related to bone.
+50. Pulmon/o: Refers to the lungs.
+51. Rhin/o: Related to the nose.
+52. Sclerosis: Hard or hardening.
+53. Stasis: Slowing or stopping the flow of a bodily fluid.
+54. Therm/o: Indicates heat.
+

@@ -1,0 +1,41 @@
+#chat-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#chat-box {
+    height: 400px;
+}
+
+.highlight {
+    background-color: yellow;
+    position: relative;
+    padding-left: 25px;
+}
+
+.delete-highlight {
+    position: relative;
+    left: -20px;
+    font-size: 0.9rem;
+    color: red;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 50%;
+    padding: 2px 5px;
+}
+
+#scroll-to-bottom-btn {
+    font-size: 1.5rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.me-2 {
+    margin-right: 0.5rem;
+}
+
+.ms-2 {
+    margin-left: 0.5rem;
+}
